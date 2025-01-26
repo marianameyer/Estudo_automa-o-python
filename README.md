@@ -1,10 +1,11 @@
-# Estudo em automação com *python*
+## Estudo em automação com *python*
 
 Projetos de automação utilizando *python*.
 
 
 # *Hashtag* Treinamentos
 
-As duas automações a seguir estão disponíveis em : https://www.youtube.com/watch?v=K3kwVcJuz8I
+[Programa para mesclar PDFs]<https://github.com/marianameyer/Estudo_automa-o-python/blob/main/mesclador_pdf.py>
+[Programa para organizar arquivos em uma pasta]<https://github.com/marianameyer/Estudo_automa-o-python/blob/main/organizador_arquivos.py>
 
-https://github.com/marianameyer/Estudo_automa-o-python/blob/main/mesclador_pdf.py
+As duas automações a seguir estão disponíveis neste [*link*]<https://www.youtube.com/watch?v=K3kwVcJuz8I>
