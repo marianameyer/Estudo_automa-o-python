@@ -1,2 +1,3 @@
-# Estudo_automa-o-python
-Projetos de automação utilizando python.
+# Estudo em automação com *python*
+
+Projetos de automação utilizando *python*.
